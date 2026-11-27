@@ -23,6 +23,7 @@ Packs\Collections.lua
 Packs\System.lua
 Packs\Breath.lua
 Packs\LossOfControl.lua
+Packs\Retail.lua
 Rolls\Chat.lua
 Rolls\Data.lua
 Rolls\Card.lua
